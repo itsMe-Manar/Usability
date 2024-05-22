@@ -10,7 +10,7 @@
 
 in this list you can add an issue "task" you can drag it to one of the columns depending on the status and progress.
 
-## Figma froject 
+## Figma Project 
 
 [Figma](https://www.figma.com/team_invite/redeem/p4jkJY3F8MR6YnQsWwBdWC)
 
